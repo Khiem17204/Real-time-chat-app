@@ -1,4 +1,4 @@
-# realtimechatapp
+# Real-time Chat App
 
 Real time chat app with my personalized interface. Using React for front end, a Node, Express backend and Harper database for storing messages. 
 
